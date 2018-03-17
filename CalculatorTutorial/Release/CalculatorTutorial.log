@@ -1,6 +1,7 @@
-﻿  stdafx.cpp
-  CalculatorTutorial.cpp
+﻿  CalculatorTutorial.cpp
   Generating code
-  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1 of 19 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   CalculatorTutorial.vcxproj -> C:\Users\jorda\source\repos\CalculatorTutorial\Release\CalculatorTutorial.exe
